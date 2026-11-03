@@ -1,0 +1,10 @@
+vendor/
+.dev-python/
+build/
+dist/
+__pycache__/
+install-receipt.json
+.venv/
+*.log
+*.dmp
+*.before-gentle
